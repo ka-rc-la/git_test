@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acbf5b50-6c01-4d3a-b02a-30004a704164" name="Default Changelist" comment="bbbb" />
+    <list default="true" id="acbf5b50-6c01-4d3a-b02a-30004a704164" name="Default Changelist" comment="1111">
+      <change afterPath="$PROJECT_DIR$/r47645756" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,7 @@
         <entry key="$PROJECT_DIR$/git_test" value="develpor" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git_test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="23zwL7Tn53nPo0F1iMFeTlTAIwB" />
@@ -36,6 +38,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +52,7 @@
       <workItem from="1642750166429" duration="90000" />
       <workItem from="1642750575650" duration="3057000" />
       <workItem from="1642758907517" duration="1793000" />
+      <workItem from="1642760706421" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="bbbb">
       <created>1642759649386</created>
@@ -55,7 +61,28 @@
       <option name="project" value="LOCAL" />
       <updated>1642759649386</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bbbb">
+      <created>1642760800707</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642760800707</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bbbb">
+      <created>1642760807792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642760807792</updated>
+    </task>
+    <task id="LOCAL-00004" summary="55555">
+      <created>1642760883845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642760883845</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="twice ,yyyyy" />
     <MESSAGE value="bbbb" />
-    <option name="LAST_COMMIT_MESSAGE" value="bbbb" />
+    <MESSAGE value="55555" />
+    <option name="LAST_COMMIT_MESSAGE" value="55555" />
   </component>
 </project>
